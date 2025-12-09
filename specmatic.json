@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "provider": "git",
+      "repository": "https://github.com/TrishaChetani/stubTest.git",
+      "branch": "main"
+    }
+  ]
+}
